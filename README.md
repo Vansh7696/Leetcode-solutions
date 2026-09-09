@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+## Math
+|  |
+| ------- |
+| [3870-count-commas-in-range](https://github.com/Vansh7696/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 <!---LeetCode Topics End-->
