@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [3870-count-commas-in-range](https://github.com/Vansh7696/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Vansh7696/Leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Divide and Conquer
@@ -105,5 +106,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
