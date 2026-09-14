@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/Vansh7696/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Vansh7696/Leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 ## Divide and Conquer
@@ -151,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
