@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0187-repeated-dna-sequences](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0904-fruit-into-baskets](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [3870-count-commas-in-range](https://github.com/Vansh7696/Leetcode-solutions/tree/master/3870-count-commas-in-range) |
