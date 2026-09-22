@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0836-rectangle-overlap](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0836-rectangle-overlap) |
