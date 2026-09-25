@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0045-jump-game-ii](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0056-merge-intervals) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0435-non-overlapping-intervals](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0455-assign-cookies) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0070-climbing-stairs) |
