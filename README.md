@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
