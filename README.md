@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1652-defuse-the-bomb](https://github.com/Vansh7696/Leetcode-solutions/tree/master/1652-defuse-the-bomb) |
+| [1710-maximum-units-on-a-truck](https://github.com/Vansh7696/Leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Vansh7696/Leetcode-solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vansh7696/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vansh7696/Leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Vansh7696/Leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Vansh7696/Leetcode-solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Vansh7696/Leetcode-solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Greedy
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Vansh7696/Leetcode-solutions/tree/master/0860-lemonade-change) |
+| [1710-maximum-units-on-a-truck](https://github.com/Vansh7696/Leetcode-solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Binary Search
 |  |
 | ------- |
