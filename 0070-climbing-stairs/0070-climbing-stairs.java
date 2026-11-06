@@ -1,13 +1,15 @@
 class Solution {
     public int climbStairs(int n) {
-        int[] dp = new int[n+1];
-        Arrays.fill(dp,-1);
-        return s(n,dp);
-    }
-    public int s(int n,int[] dp){
-        if(n==0) return 1;
-        if(n==1) return 1;
-        if(dp[n]!=-1) return dp[n];
-        return dp[n] = s(n-1,dp) + s(n-2,dp);
+        if(n<=1){
+            return n;
+        }
+        int prev2 = 1;
+        int prev = 1;
+        for(int i=2;i<=n;i++){
+            int curr = prev + prev2;
+            prev2 = prev;
+            prev = curr;
+        }
+        return prev;
     }
 }
